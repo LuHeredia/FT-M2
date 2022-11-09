@@ -8,6 +8,7 @@ export const DECREMENT = 'DECREMENT';
 
 export const increment = () => {
   // Completa la funcion
+  
 };
 
 export const decrement = () => {
